@@ -2,6 +2,12 @@
 
 This project demonstrates JavaScript Todo-List manipulation in a simple and interactive way.
 
+## 📸 Screenshot
+
+![Project Screenshot](Proje.png)
+
+
+
 ## 🔗 Live Demo
 
 👉 [Click here to view the live project](https://dalveli.github.io/TodoList/)
